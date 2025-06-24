@@ -24,7 +24,7 @@ O bot permite:
 
 ## 🖥️ Tela do Bot em Ação (exemplo)
 
-![Bot em ação - Envio de DM]([(https://trello.com/1/cards/685aad5f6a5d85fa63c5262c/attachments/685aad5f6a5d85fa63c52666/download/Screenshot_10.png)](https://trello.com/1/cards/685aad5f6a5d85fa63c5262c/attachments/685aad5f6a5d85fa63c52666/download/Screenshot_10.png))
+![Bot em ação - Envio de DM](https://prnt.sc/3MzR_bput7xw)
 
 Exemplo de como o bot aparece no Discord após executar o comando `!dmall`.
 
