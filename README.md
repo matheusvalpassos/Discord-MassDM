@@ -42,15 +42,6 @@ Exemplo de como o bot aparece sendo executado.
 
 ---
 
-## 📋 Comandos Disponíveis
-
-| Comando | Descrição |
-|--------|-----------|
-| `!dmall <mensagem>` | Envia uma mensagem direta para todos os membros do servidor. |
-| `!helpcmds` | Mostra uma lista de comandos disponíveis e como utilizá-los. |
-
----
-
 ## ⚙️ Requisitos
 
 Para rodar este projeto localmente, você precisa de:
