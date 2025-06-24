@@ -24,7 +24,7 @@ O bot permite:
 
 ## 🖥️ Tela do Bot em Ação (exemplo)
 
-![Bot em ação - Envio de DM](https://prnt.sc/3MzR_bput7xw)
+![Bot em ação - Envio de DM](https://github.com/matheusvalpassos/Discord-MassDM/blob/main/massdm_func.png)
 
 Exemplo de como o bot aparece no Discord após executar o comando `!dmall`.
 
