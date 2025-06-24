@@ -1,0 +1,29 @@
+## :fire: [Título Principal] :fire: ##
+# [Slogan curto ou frase de identidade] #
+
+:books: [Categoria 1]: [Informação Editável]  
+:skull: [Categoria 2]: [Detalhes Adicionais]  
+:gem: [Categoria 3]: [Detalhes Adicionais]
+
+:bar_chart: [Característica 1]  
+:trophy: [Característica 2]  
+:shopping_bags: [Característica 3]
+
+:princess: [Destaque ou Novidade]: [Descrição breve]. ([Extra como temporada])
+
+:arrows_counterclockwise: [Modo/Jogo/Raids]: [Detalhe específico]  
+:chart_with_upwards_trend: [Funcionalidade customizada 1]  
+:desktop: [Funcionalidade customizada 2]  
+:fire: [Melhoria adicional 1]  
+:mag: [Melhoria adicional 2]
+
+:fire: [Notificação importante 1]
+:fire: [Notificação importante 2]
+:fire: [Segurança ou destaque técnico]
+
+## **:no_entry_sign: [Observação Importante]** ##
+
+## :rocket: [Call to Action final] :video_game: ##
+
+🔗 [Nome do Link]: [URL Completa]        
+🌐 [Nome do Site]: [URL Completa]   
