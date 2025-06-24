@@ -26,7 +26,7 @@ O bot permite:
 
 ![Bot em ação - Envio de DM](https://github.com/matheusvalpassos/Discord-MassDM/blob/main/massdm_func.png)
 
-Exemplo de como o bot aparece no Discord após executar o comando `!dmall`.
+Exemplo de como o bot aparece sendo executado.
 
 ---
 
