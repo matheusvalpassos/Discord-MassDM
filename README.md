@@ -1,6 +1,6 @@
 # 🎮 Sistema de DM em Massa para Discord
 
-![GitHub license](https://img.shields.io/github/license/CuspeDeAsura/discord-dm-bot) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-blue) 
 ![Discord.py](https://img.shields.io/badge/Discord.py-2.0+-dark_blue) 
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen) 
